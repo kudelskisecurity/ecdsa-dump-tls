@@ -1,0 +1,6 @@
+.idea
+*.csv
+*.pcap
+*.zip
+*.pyc
+__pycache__
