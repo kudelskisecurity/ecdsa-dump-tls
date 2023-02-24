@@ -50,7 +50,7 @@ Run the `extract.sh` script to perform all of that in one command:
 
 Go to the 
 
-Run the attack using the script in the `ecdsa-polynomial-nonce-recurrence-attack` repository :
+Run the attack using the script in the [ecdsa-polynomial-nonce-recurrence-attack](https://github.com/kudelskisecurity/ecdsa-polynomial-nonce-recurrence-attack) repository :
 
 ```
 ~/git/ecdsa-polynomial-nonce-recurrence-attack/attacks/ecdsa_tls_attack.py -n 5 -i sorted-localhost.csv -o localhost-tls-attack-results.csv
